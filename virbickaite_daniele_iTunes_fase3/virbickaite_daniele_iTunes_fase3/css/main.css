@@ -5,19 +5,19 @@ hr.light{border-color:#fff}
 h1,h2,h3,h4,h5,h6{font-family:'Open Sans','Helvetica Neue',Arial,sans-serif}
 h3,h5{font-weight: bold}
 p{font-size:16px;line-height:1.5;margin-bottom:20px}
-
+@media (min-width:768px){p{font-size:14px}
 
 
 .bg-dark{color:#fff;background-color:#222!important}
 
 section{padding:100px 0}
 
-body{-webkit-tap-highlight-color:#222}
-header.masthead{position:relative;width:100%;min-height:auto;text-align:center;color:#333333;background-image:url(../img/header.gif);background-position:center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover}
+
+header.masthead{position:relative;width:100%;min-height:auto;text-align:center;color:#fff;background-image:url(../img/header.jpg);background-position:center;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover}
 header.masthead .header-content{position:relative;width:100%;padding:150px 15px 100px;text-align:center}
 header.masthead .header-content .header-content-inner h1{font-size:30px;font-weight:700;margin-top:0;margin-bottom:0;text-transform:uppercase}
 header.masthead .header-content .header-content-inner hr{margin:30px auto}
-header.masthead .header-content .header-content-inner p{font-size:16px;font-weight:500;margin-bottom:50px;color:rgba(49, 49, 49, 0.7)}
+header.masthead .header-content .header-content-inner p{font-size:16px;font-weight:300;margin-bottom:50px;color:rgba(255,255,255,.7)}
 
 
 
